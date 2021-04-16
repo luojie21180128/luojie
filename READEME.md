@@ -1,4 +1,4 @@
-[jump](https://github.com/luojie21180128/luojie/blob/main/next.md
+[jump](https://github.com/luojie21180128/luojie/blob/main/next.md)
 # jump
 ## head
 ### head
